@@ -1,6 +1,4 @@
 /target/
-**/*.rs.bk
-*.swp
-*.swo
+*.rs.bk
 rustup-init
-Cargo.lock   # optional, keep it if you want
+Cargo.lock
